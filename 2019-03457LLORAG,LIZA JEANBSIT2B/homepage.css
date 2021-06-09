@@ -1,0 +1,13 @@
+body{
+	background-color: white;
+}
+form{
+	margin-top: 15%;
+	width: 30%;
+	margin-left: 40%;
+}
+button{
+	margin-left: 60%;
+	text-decoration: none;
+	border: 1px solid black ;
+}
