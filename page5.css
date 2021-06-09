@@ -1,0 +1,49 @@
+body{
+	background-color: pink;
+}
+.right{
+	text-align: center;
+	width: 15%;
+	background-color: lightblue;
+	margin-left:  20%;
+	border: 1px solid black;
+}
+.left{
+	text-align: center;
+	width: 15%;
+	margin-left: 25%;
+	background-color: lightblue;
+	border: 1px solid black;
+}
+img{
+	margin-right: 1%;
+}
+.show{
+	display: none;
+}
+.close{
+	background-color: lightblue;
+	color: black;
+	border: none;
+}
+.choose{
+	display: flex;
+	margin-top: 20%;
+}
+.line{
+	display: flex;
+}
+.float{
+	position: fixed;
+	background: transparent;
+	margin-top: 10%;
+	margin-left: 20%;
+	display: none;
+}
+.button{
+	background: none;
+	border: none;
+	width: 100%;
+	height: 100%;
+	color: black;
+}
